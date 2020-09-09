@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "175636107149",
+    "firebase_url": "https://oba-shop.firebaseio.com",
+    "project_id": "oba-shop",
+    "storage_bucket": "oba-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175636107149:android:db955f0e67a8f6215ab7c4",
+        "android_client_info": {
+          "package_name": "com.example.oba_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175636107149-hsv73osuknd2hsm9v4546cdunrfug491.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaruzqT1eh5EuvzXUHht_bW7ZLthsVdFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175636107149-hsv73osuknd2hsm9v4546cdunrfug491.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
